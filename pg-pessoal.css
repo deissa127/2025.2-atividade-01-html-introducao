@@ -10,17 +10,17 @@ body {
 }
 h1 {
     font-size: 36px;
-    color: #1a1a1a;
+    color: #4428e4;
     text-align: center;
 }
 h2 {
     font-size: 28px;
-    color: #2c3e50;
+    color: #cf2597;
     text-align: center;
 }
 h3 {
     font-size: 24px;
-    color: #34495e;
+    color: #b6b90a;
     text-align: left;
 }
 h4 {
@@ -45,20 +45,23 @@ div {
 }
 a {
     color: #0066cc;
-    font-size: 14px;
+    font-size: 12px;
 }
 .destaque {
     color: #e74c3c;
-    font-size: 16px;
+    font-size: 14px;
 }
 .secao {
     text-align: center;
 }
 .link-social {
     color: #16a085;
-    font-size: 15px;
+    font-size: 20px;
 }
 .tecnologia {
     color: #8e44ad;
-    font-size: 14px;
+    font-size: 16px;
+}
+.adcao {
+    text-align: right;
 }
